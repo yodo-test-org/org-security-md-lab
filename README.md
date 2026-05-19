@@ -37,6 +37,7 @@ https://github.com/yodo-test-org/.github/blob/main/SECURITY.md
 ## ファイル構成
 
 - `docs/security-md-behavior.md`: `SECURITY.md` の挙動メモ。
+- `docs/security-reporting-guide.md`: GitHub で Security 報告する手順。
 - `docs/default-community-health-files.md`: Organization 共通ファイルの挙動メモ。
 - `examples/repository-SECURITY.md`: リポジトリ固有 `SECURITY.md` のサンプル。
 
